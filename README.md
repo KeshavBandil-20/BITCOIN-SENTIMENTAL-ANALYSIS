@@ -1,7 +1,7 @@
 # Bitcoin Sentiment Analysis & Real-Time Market Impact System
 
 ## Overview
-This repository contains a system to analyze Bitcoin sentiment from historical and real-time tweets, predict price movement, and provide alerts.
+This repository contains a system to analyze Bitcoin sentiment from historical and real-time tweets , predict price movement, and provide alerts.
 
 ## Installation
 ```bash
