@@ -1,0 +1,14 @@
+tweepy
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
+nltk
+vaderSentiment
+tensorflow
+torch
+twilio
+requests
+joblib

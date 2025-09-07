@@ -1,0 +1,9 @@
+TWITTER_API_KEY = "your_key"
+TWITTER_API_SECRET = "your_secret"
+TWITTER_BEARER_TOKEN = "your_bearer_token"
+INFLUENCER_USER_IDS = ["12345", "67890"]
+ALERT_THRESHOLD = 0.6
+SMTP_EMAIL = "your_email@example.com"
+SMTP_PASSWORD = "your_email_password"
+HISTORICAL_TWEETS_PATH = "data/sample_historical_tweets.csv"
+BITCOIN_PRICE_PATH = "data/bitcoin_price.csv"
